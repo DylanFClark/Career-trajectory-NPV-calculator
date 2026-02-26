@@ -17,7 +17,7 @@ feedback loop 1: profit -> investment -> returns -> income -> profit
 feedback loop 2: Experience -> Skills -> Experience
 --> Reinforcing competence development. Higher skills gain you access to more difficult problems, and the opportunity to work alongside more competent people. Those, in turn, tend to benefit skill development. 
 
-![words](img/causal loop 2.png)
+![words]('img/causal loop 2.png')
 
 
 # 2nd Deliverable Additions
@@ -59,12 +59,12 @@ Figure 3. Vacancies for IT and adjacent jobs
 This visualization is an imatation of the previous; but filtered based on typical IT jobs - data science, cybersecurity analyst, Networking engineer, and adjacent positions. There is a positive trend, implying increasing quantities of vacant positions advertised.
 
 
-![words](img/wages by province and trade.png)
+![words]('img/wages by province and trade.png')
 Figure 4. Wages by province and job
 
 This is all wages advertised in job vacancies in 2025, sorted by province and job category. I've highlighted the I&C trade jobs with red arrows on the left, to distinguish them from the tech jobs. Both IT & I&C routes have $40-50/hr potential for standard roles. Specializations can earn premiums. Management roles have higher potential pay, but content of work shifts from 'engineering' (vertical skill development) to 'managment' (horizontle skill development). 
 
-![words](img/tax rate vs tax bracket.png)
+![words]('img/tax rate vs tax bracket.png')
 Figure 5. Tax rate vs. tax bracket by province. 
 
 This visualization depicts tax rates vs. tax brackets by province. The federal tax is larger than provincial taxes. Provincial differences are significant. Nunavut would appear to have the least provincial taxes, while Newfoundland would appear to have the most. 

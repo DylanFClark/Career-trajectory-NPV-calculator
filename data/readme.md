@@ -30,5 +30,5 @@ We generated this dataset to model tax expense based on earned income by provinc
 
 ## Data requirements
 
-![words](img/bsad482_ERD.drawio.png)
+![words](../img/bsad482_ERD.drawio.png)
 
