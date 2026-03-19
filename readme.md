@@ -9,6 +9,12 @@ This decision pertains to the professional development of this young person; wha
 
 A red seal would provide increased long term job security, and a set of specialized skills and experience, but postpone full time entry to the workforce due to education *requirements.
 
+## Link to DELIVERABLE C : Streamlit dashboard
+
+
+
+Note: An explanation for usage is included within the dashboard
+
 ## Causal Loop Diagram
 
 feedback loop 1: profit -> investment -> returns -> income -> profit
@@ -81,3 +87,36 @@ Government of Canada, S. C. (2007, June 19). Consumer Price Index by product gro
 Government of Canada, S. C. (2018, June 27). Labour force characteristics by industry, annual. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002301
 
 Government of Canada, S. C. (2024, March 19). Job vacancies and average offered hourly wage by occupation (unit group), quarterly, unadjusted for seasonality. https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410044401
+
+
+
+# Deliverable 3
+## Implications for the Decision
+
+200-300 words 
+• Summarizes what your analysis reveals
+• Identifies which options look more or less promising based on evidence
+• Notes key uncertainties that remain
+• Previews the recommendation you will develop in Milestone 4
+
+Our analysis (dashboard) enables the users to compare career options (routes) via select criterion, and view how geography (province) informs those criterion. 
+
+The criterion categories include: Fiscal & Capability 
+
+Fiscal --> Income, Tax, Costs, Investments ($)
+
+Capability --> Skills in areas of interest (yrs experience)
+
+This analysis is flawed in the following senses: 
+* The data is not fully authentic (I used claude to generate data for this assignment, using my ERD as reference), thus it likely deviates from authentic data to a degree.
+* The analysis does not consider a persons starting position, which might inform the optimal option
+* Yrs of experience (skills) is not the best indicator of competence. However, assigning a 'learning_rate' to different individuals would be difficult in practice. 
+* The analysis does not consider unemployment rates, which informs confidence in implementing the career path. 
+
+## Preview of Recommendation
+
+Because of these reasons, I do not believe the data is fully representative of the context. 
+
+This model assumes equivalent raises for anyone in the same position; there is more nuance when forecasting income in the real world; relationships w/ decision makers (HR, Managers), perceived competence (based on precedent), and experience on paper - including differentiators. 
+
+I believe the Diploma --> Red Seal in I&C path will increase employability in a field of interest, and act a differentiator for future IT jobs in specialized markets, as well as get me a premium for specialized skills & knowledge. 
