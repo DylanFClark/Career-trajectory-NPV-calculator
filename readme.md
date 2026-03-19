@@ -1,5 +1,10 @@
 # Career Trajectory NPV Calculator
 
+## LINK TO DELIVERABLE C : Streamlit dashboard
+
+Note: An explanation for usage is included within the dashboard
+
+
 ## Decision Statment
 “Should a BIS undergraduate in NS pursue a job related to their degree, or a Instrumentation & Control Technician red seal upon graduation within Canada; given target career trajectory and financial metrics?”
 
@@ -9,11 +14,6 @@ This decision pertains to the professional development of this young person; wha
 
 A red seal would provide increased long term job security, and a set of specialized skills and experience, but postpone full time entry to the workforce due to education *requirements.
 
-## Link to DELIVERABLE C : Streamlit dashboard
-
-
-
-Note: An explanation for usage is included within the dashboard
 
 ## Causal Loop Diagram
 
