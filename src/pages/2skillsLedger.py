@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 
-dataset = pd.read_csv("../data/compiled_482_data.csv")
+dataset = pd.read_csv("data/compiled_482_data.csv")
 
 # skills
 skillsColumns = "year,province,career_path_name,current_endevor,yrs_Programming & Software Development,yrs_Version Control (Git),yrs_System Design & Architecture,yrs_Agile & DevOps Practices,yrs_Network Security,yrs_Security Monitoring & SIEM,yrs_Incident Response,yrs_Threat Analysis & Intelligence,yrs_Vulnerability Assessment,yrs_IT Consulting & Client Engagement,yrs_Business Process Analysis,yrs_Project Management,yrs_Enterprise Systems & ERP,yrs_PLC & Control System Programming,yrs_Instrumentation Calibration & Maintenance,yrs_Process Control & SCADA,yrs_Electrical Systems & Wiring,yrs_Industrial Cybersecurity,yrs_OT/IT Network Integration,yrs_Risk Assessment & Compliance (OT)"
