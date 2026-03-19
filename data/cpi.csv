@@ -1,0 +1,31 @@
+costOfLivingID,costArea,baselineCost,expectedYearlyIncrease,province
+1,Housing,1100,0.05,Nova Scotia
+2,Food,800,0.03,Nova Scotia
+3,Transportation,600,0.03,Nova Scotia
+4,Housing,1000,0.045,New Brunswick
+5,Food,780,0.03,New Brunswick
+6,Transportation,580,0.03,New Brunswick
+7,Housing,900,0.04,Prince Edward Island
+8,Food,760,0.03,Prince Edward Island
+9,Transportation,560,0.03,Prince Edward Island
+10,Housing,1050,0.045,Newfoundland and Labrador
+11,Food,790,0.03,Newfoundland and Labrador
+12,Transportation,570,0.03,Newfoundland and Labrador
+13,Housing,1250,0.04,Quebec
+14,Food,820,0.028,Quebec
+15,Transportation,590,0.028,Quebec
+16,Housing,1850,0.05,Ontario
+17,Food,900,0.032,Ontario
+18,Transportation,700,0.032,Ontario
+19,Housing,1150,0.04,Manitoba
+20,Food,810,0.03,Manitoba
+21,Transportation,610,0.03,Manitoba
+22,Housing,1200,0.04,Saskatchewan
+23,Food,800,0.03,Saskatchewan
+24,Transportation,600,0.03,Saskatchewan
+25,Housing,1600,0.055,Alberta
+26,Food,870,0.032,Alberta
+27,Transportation,680,0.032,Alberta
+28,Housing,2050,0.055,British Columbia
+29,Food,920,0.035,British Columbia
+30,Transportation,720,0.035,British Columbia

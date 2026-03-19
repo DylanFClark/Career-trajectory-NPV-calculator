@@ -1,0 +1,21 @@
+skillID,skillName
+1,Programming & Software Development
+2,Version Control (Git)
+3,System Design & Architecture
+4,Agile & DevOps Practices
+5,Network Security
+6,Security Monitoring & SIEM
+7,Incident Response
+8,Threat Analysis & Intelligence
+9,Vulnerability Assessment
+10,IT Consulting & Client Engagement
+11,Business Process Analysis
+12,Project Management
+13,Enterprise Systems & ERP
+14,PLC & Control System Programming
+15,Instrumentation Calibration & Maintenance
+16,Process Control & SCADA
+17,Electrical Systems & Wiring
+18,Industrial Cybersecurity
+19,OT/IT Network Integration
+20,Risk Assessment & Compliance (OT)

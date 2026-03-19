@@ -1,0 +1,5 @@
+skillLevelID,levelName,minYearsExperience
+1,low,0
+2,med,2
+3,high,5
+4,expert,8

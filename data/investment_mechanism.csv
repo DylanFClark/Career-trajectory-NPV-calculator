@@ -1,0 +1,5 @@
+,invesmentMechanismID,investmentMechanismName,avgYearlyReturn
+0,1,low,0.05
+1,2,avg,0.1
+2,3,high,0.15
+3,4,developTradingBot,0.3

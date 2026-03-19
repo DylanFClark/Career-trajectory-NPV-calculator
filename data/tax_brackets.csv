@@ -1,0 +1,65 @@
+,province,tax_bracket,tax_rate
+0,Federal,58523,0.14
+1,Yukon,58523,0.064
+2,Federal,117045,0.205
+3,Yukon,117045,0.09
+4,Federal,181440,0.26
+5,Yukon,181440,0.109
+6,Federal,258482,0.29
+7,Federal,1000000,0.33
+8,Newfoundland and Labrador,1000000,0.218
+9,Prince Edward Island,1000000,0.19
+10,Nova Scotia,1000000,0.21
+11,New Brunswick,1000000,0.195
+12,Ontario,1000000,0.1316
+13,Manitoba,1000000,0.174
+14,Alberta,1000000,0.15
+15,British Columbia,1000000,0.205
+16,Yukon,1000000,0.15
+17,Northwest Territories,1000000,0.1405
+18,Nunavut,1000000,0.115
+19,Newfoundland and Labrador,44678,0.087
+20,Newfoundland and Labrador,89354,0.145
+21,Newfoundland and Labrador,159528,0.158
+22,Newfoundland and Labrador,223340,0.178
+23,Newfoundland and Labrador,285319,0.198
+24,Newfoundland and Labrador,570638,0.208
+25,Newfoundland and Labrador,1141275,0.213
+26,Prince Edward Island,33928,0.095
+27,Prince Edward Island,65820,0.1347
+28,Prince Edward Island,106890,0.166
+29,Prince Edward Island,142250,0.1762
+30,Nova Scotia,30995,0.0879
+31,Nova Scotia,61991,0.1495
+32,Nova Scotia,97417,0.1667
+33,Nova Scotia,157124,0.175
+34,New Brunswick,52333,0.094
+35,New Brunswick,104666,0.14
+36,New Brunswick,193861,0.16
+37,Ontario,53891,0.0504999999999999
+38,Ontario,107785,0.0915
+39,Ontario,150000,0.1116
+40,Ontario,220000,0.1216
+41,Manitoba,47000,0.108
+42,Manitoba,100000,0.1275
+43,Alberta,61200,0.08
+44,Alberta,154259,0.1
+45,Alberta,185111,0.12
+46,Alberta,246813,0.13
+47,Alberta,370220,0.14
+48,British Columbia,50363,0.0506
+49,British Columbia,100728,0.077
+50,British Columbia,115648,0.105
+51,British Columbia,140430,0.1229
+52,British Columbia,190405,0.147
+53,British Columbia,265545,0.168
+54,Yukon,500000,0.128
+55,Northwest Territories,53003,0.059
+56,Northwest Territories,106009,0.086
+57,Northwest Territories,172346,0.122
+58,Nunavut,55801,0.04
+59,Nunavut,111602,0.07
+60,Nunavut,181439,0.09
+61,Saskatchewan,54532,0.105
+62,Saskatchewan,155805,0.125
+63,Saskatchewan,1000000,0.145

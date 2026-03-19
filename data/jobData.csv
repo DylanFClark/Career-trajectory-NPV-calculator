@@ -1,0 +1,91 @@
+jobDataID,jobID,jobName,province,avgWage,avgYearlyWageIncrease,avgHoursWorkedWeekly
+1,1,Junior Software Engineer,Nova Scotia,52000,0.03,40
+2,1,Junior Software Engineer,New Brunswick,50000,0.03,40
+3,1,Junior Software Engineer,Prince Edward Island,48000,0.03,40
+4,1,Junior Software Engineer,Newfoundland and Labrador,50000,0.03,40
+5,1,Junior Software Engineer,Quebec,55000,0.03,40
+6,1,Junior Software Engineer,Ontario,68000,0.03,40
+7,1,Junior Software Engineer,Manitoba,54000,0.03,40
+8,1,Junior Software Engineer,Saskatchewan,53000,0.03,40
+9,1,Junior Software Engineer,Alberta,67000,0.03,40
+10,1,Junior Software Engineer,British Columbia,66000,0.03,40
+11,2,Senior Software Engineer,Nova Scotia,88000,0.03,40
+12,2,Senior Software Engineer,New Brunswick,84000,0.03,40
+13,2,Senior Software Engineer,Prince Edward Island,80000,0.03,40
+14,2,Senior Software Engineer,Newfoundland and Labrador,83000,0.03,40
+15,2,Senior Software Engineer,Quebec,92000,0.03,40
+16,2,Senior Software Engineer,Ontario,115000,0.03,40
+17,2,Senior Software Engineer,Manitoba,88000,0.03,40
+18,2,Senior Software Engineer,Saskatchewan,86000,0.03,40
+19,2,Senior Software Engineer,Alberta,112000,0.03,40
+20,2,Senior Software Engineer,British Columbia,110000,0.03,40
+21,3,SOC Level 1 Analyst,Nova Scotia,46000,0.03,40
+22,3,SOC Level 1 Analyst,New Brunswick,44000,0.03,40
+23,3,SOC Level 1 Analyst,Prince Edward Island,42000,0.03,40
+24,3,SOC Level 1 Analyst,Newfoundland and Labrador,44000,0.03,40
+25,3,SOC Level 1 Analyst,Quebec,48000,0.03,40
+26,3,SOC Level 1 Analyst,Ontario,58000,0.03,40
+27,3,SOC Level 1 Analyst,Manitoba,46000,0.03,40
+28,3,SOC Level 1 Analyst,Saskatchewan,45000,0.03,40
+29,3,SOC Level 1 Analyst,Alberta,57000,0.03,40
+30,3,SOC Level 1 Analyst,British Columbia,56000,0.03,40
+31,4,SOC Level 2 Analyst,Nova Scotia,65000,0.03,40
+32,4,SOC Level 2 Analyst,New Brunswick,62000,0.03,40
+33,4,SOC Level 2 Analyst,Prince Edward Island,60000,0.03,40
+34,4,SOC Level 2 Analyst,Newfoundland and Labrador,62000,0.03,40
+35,4,SOC Level 2 Analyst,Quebec,68000,0.03,40
+36,4,SOC Level 2 Analyst,Ontario,82000,0.03,40
+37,4,SOC Level 2 Analyst,Manitoba,65000,0.03,40
+38,4,SOC Level 2 Analyst,Saskatchewan,64000,0.03,40
+39,4,SOC Level 2 Analyst,Alberta,80000,0.03,40
+40,4,SOC Level 2 Analyst,British Columbia,78000,0.03,40
+41,5,Associate Technology Consultant,Nova Scotia,55000,0.035,40
+42,5,Associate Technology Consultant,New Brunswick,53000,0.035,40
+43,5,Associate Technology Consultant,Prince Edward Island,51000,0.035,40
+44,5,Associate Technology Consultant,Newfoundland and Labrador,53000,0.035,40
+45,5,Associate Technology Consultant,Quebec,58000,0.035,40
+46,5,Associate Technology Consultant,Ontario,70000,0.035,40
+47,5,Associate Technology Consultant,Manitoba,55000,0.035,40
+48,5,Associate Technology Consultant,Saskatchewan,54000,0.035,40
+49,5,Associate Technology Consultant,Alberta,69000,0.035,40
+50,5,Associate Technology Consultant,British Columbia,67000,0.035,40
+51,6,Senior Technology Consultant,Nova Scotia,92000,0.035,40
+52,6,Senior Technology Consultant,New Brunswick,88000,0.035,40
+53,6,Senior Technology Consultant,Prince Edward Island,84000,0.035,40
+54,6,Senior Technology Consultant,Newfoundland and Labrador,88000,0.035,40
+55,6,Senior Technology Consultant,Quebec,96000,0.035,40
+56,6,Senior Technology Consultant,Ontario,120000,0.035,40
+57,6,Senior Technology Consultant,Manitoba,90000,0.035,40
+58,6,Senior Technology Consultant,Saskatchewan,88000,0.035,40
+59,6,Senior Technology Consultant,Alberta,118000,0.035,40
+60,6,Senior Technology Consultant,British Columbia,115000,0.035,40
+61,7,Instrumentation & Control Tech (Apprentice),Nova Scotia,40000,0.04,40
+62,7,Instrumentation & Control Tech (Apprentice),New Brunswick,39000,0.04,40
+63,7,Instrumentation & Control Tech (Apprentice),Prince Edward Island,37000,0.04,40
+64,7,Instrumentation & Control Tech (Apprentice),Newfoundland and Labrador,39000,0.04,40
+65,7,Instrumentation & Control Tech (Apprentice),Quebec,41000,0.04,40
+66,7,Instrumentation & Control Tech (Apprentice),Ontario,46000,0.04,40
+67,7,Instrumentation & Control Tech (Apprentice),Manitoba,40000,0.04,40
+68,7,Instrumentation & Control Tech (Apprentice),Saskatchewan,42000,0.04,40
+69,7,Instrumentation & Control Tech (Apprentice),Alberta,52000,0.04,40
+70,7,Instrumentation & Control Tech (Apprentice),British Columbia,48000,0.04,40
+71,8,Instrumentation & Control Tech (Red Seal),Nova Scotia,70000,0.025,40
+72,8,Instrumentation & Control Tech (Red Seal),New Brunswick,68000,0.025,40
+73,8,Instrumentation & Control Tech (Red Seal),Prince Edward Island,65000,0.025,40
+74,8,Instrumentation & Control Tech (Red Seal),Newfoundland and Labrador,68000,0.025,40
+75,8,Instrumentation & Control Tech (Red Seal),Quebec,72000,0.025,40
+76,8,Instrumentation & Control Tech (Red Seal),Ontario,82000,0.025,40
+77,8,Instrumentation & Control Tech (Red Seal),Manitoba,70000,0.025,40
+78,8,Instrumentation & Control Tech (Red Seal),Saskatchewan,74000,0.025,40
+79,8,Instrumentation & Control Tech (Red Seal),Alberta,92000,0.025,40
+80,8,Instrumentation & Control Tech (Red Seal),British Columbia,85000,0.025,40
+81,9,Industrial Cybersecurity Analyst,Nova Scotia,75000,0.03,40
+82,9,Industrial Cybersecurity Analyst,New Brunswick,72000,0.03,40
+83,9,Industrial Cybersecurity Analyst,Prince Edward Island,69000,0.03,40
+84,9,Industrial Cybersecurity Analyst,Newfoundland and Labrador,72000,0.03,40
+85,9,Industrial Cybersecurity Analyst,Quebec,78000,0.03,40
+86,9,Industrial Cybersecurity Analyst,Ontario,95000,0.03,40
+87,9,Industrial Cybersecurity Analyst,Manitoba,75000,0.03,40
+88,9,Industrial Cybersecurity Analyst,Saskatchewan,74000,0.03,40
+89,9,Industrial Cybersecurity Analyst,Alberta,93000,0.03,40
+90,9,Industrial Cybersecurity Analyst,British Columbia,90000,0.03,40

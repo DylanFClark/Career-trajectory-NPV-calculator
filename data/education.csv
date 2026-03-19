@@ -1,0 +1,4 @@
+educationID,educationName,years,expectedCost,expectedEarnings,province
+1,I&C Engineering Diploma,3,20000,20000,Saskatchewan
+2,Masters in Cybersecurity,2,30000,30000,Saskatchewan
+3,PhD in Cybersecurity,4,45000,50000,Saskatchewan
