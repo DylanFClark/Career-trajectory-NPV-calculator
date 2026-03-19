@@ -7,8 +7,6 @@ st.set_page_config(
 
 st.write("# Welcome to my Streamlit Dashboard! 👋")
 
-st.sidebar.success("Select a demo above.")
-
 st.markdown(
 """
 # This dashboard was created as a component of BSAD 482's deliverable 3.

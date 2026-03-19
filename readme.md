@@ -2,6 +2,8 @@
 
 ## LINK TO DELIVERABLE C : Streamlit dashboard
 
+https://career-trajectory-npv-calculator-3iz73bfhokfbyeu73aua5q.streamlit.app/cashflows
+
 Note: An explanation for usage is included within the dashboard
 
 
