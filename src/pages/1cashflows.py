@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 
-dataset = pd.read_csv("../data/compiled_482_data.csv")
+dataset = pd.read_csv("data/compiled_482_data.csv")
 
 
 #cash flows
