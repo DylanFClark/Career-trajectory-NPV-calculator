@@ -114,7 +114,8 @@ data = [federal,
         british_columbia,
         yukon,
         northwest_territories,
-        nunavut
+        nunavut,
+        saskatchewan
         ]
 
 labels = '''federal, 
@@ -128,7 +129,8 @@ labels = '''federal,
         british_columbia,
         yukon,
         northwest_territories,
-        nunavut'''
+        nunavut,
+        saskatchewan'''
 
 labels = labels.split("\n")
 
@@ -237,6 +239,7 @@ print(df_melted)
 print(df_melted.index)
 print(df_melted.columns)
 
-df_melted.to_csv("C:/academia/school/tax_brackets_by_province_transposed.csv", index=True)
+print(df_melted[df_melted["Province"] == "Saskatchewan"])
 
+df_melted.to_csv("../data/tax_brackets_by_province_transposed.csv", index=True)
 
