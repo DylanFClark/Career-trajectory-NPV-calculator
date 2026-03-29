@@ -23,6 +23,7 @@ A red seal would provide increased long term job security, and a set of speciali
 
 ## LINK TO DELIVERABLE C : Streamlit dashboard
 [Streamlit Dashboard](https://career-trajectory-npv-calculator-3iz73bfhokfbyeu73aua5q.streamlit.app/)
+
 Note: An explanation for usage is included within the dashboard
 
 
@@ -119,7 +120,7 @@ I recommend doing the I&C.
 
 A purely fiscal analysis would not favour this. I do not believe the data is fully representative of the context. See a rationale for this below in the limitations section. 
 
-My interest in the subject is a bias; but if I spend my time doing things I'm interested in, I'll explore the topic more, improving capabilities, which directly inform outcomes. The projections in the dashboard say otherwise; but the projections don't consider for the differentiation factor (from combining skills in complimentary domains) and job security. We do model the skill development over time, but that is more difficult to objectively compare than $ vs $.
+My interest in the subject is a bias, but if I spend my time doing things I'm interested in, I'll explore the topic more, improving capabilities, which directly inform outcomes. The projections in the dashboard say otherwise; but the projections don't consider for the differentiation factor (from combining skills in complimentary domains) and job security. We do model the skill development over time, but that is more difficult to objectively compare than $ vs $.
 
 I believe the I&C Diploma --> Red Seal in I&C --> Cybersecurity path will increase employability in a field of interest, and act a differentiator for future IT jobs in specialized markets, as well as get the D/M a premium for specialized skills & knowledge. 
 
