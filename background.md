@@ -36,7 +36,7 @@ Canada, E. and S. D. (2020, December 16). Red Seal Brochure. https://red-seal.ca
 How to Choose a Career: 10 Most Crucial Things to Consider | CFNC. (2022). https://www.cfnc.org/news/how-to-choose-a-career/
 
 
-## Datasets I plan to use
+## Datasets I used
 
 CPI data by province:
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000413
@@ -47,10 +47,8 @@ https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410002301
 Job vacancies and average offered hourly wage by occupation (unit group), quarterly, unadjusted for seasonality: 
 https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410044401
 
-Projected salaries for varied jobs (at various levels of experience) will be generated as averages with notebookLM or equivalent (assuming that is permitted within the scope of the class). 
+Projected salaries for varied jobs (at various levels of experience) was be generated as averages with claude.
 
 Education considered will be exclusively the I&C training for the sake of reducing complexity
-
-NPV’s will be calculated based on projected salaries, and defined budgets, which will scale based on projections of raises in those industries, and projections of cost of living increases from the CPI. 
 
 Skills associated with job titles included in experience will be recorded in skills ledger. 
