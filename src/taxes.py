@@ -234,12 +234,5 @@ df_melted = df.melt(id_vars=['Province'],
 
 df_melted = df_melted.dropna(subset=['tax_rate']).reset_index(drop=True)
 
-print(df_melted)
-
-print(df_melted.index)
-print(df_melted.columns)
-
-print(df_melted[df_melted["Province"] == "Saskatchewan"])
-
 df_melted.to_csv("../data/tax_brackets_by_province_transposed.csv", index=True)
 
