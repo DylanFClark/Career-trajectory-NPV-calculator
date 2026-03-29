@@ -30,7 +30,7 @@ Note: An explanation for usage is included within the dashboard
 
 I recommend doing the I&C. 
 
-A purely fiscal analysis would not favour this. I do not believe the data is fully representative of the context. See a rationale for this below in the limitations section. 
+A purely fiscal analysis (using our dashboard as reference) would not favour this. I do not believe the data is fully representative of the context. See a rationale for this below in the limitations section. 
 
 My interest in the subject is a bias, but if I spend my time doing things I'm interested in, I'll explore the topic more, improving capabilities, which directly inform outcomes. The projections in the dashboard say otherwise; but the projections don't consider for the differentiation factor (from combining skills in complimentary domains) and job security. We do model the skill development over time, but that is more difficult to objectively compare than $ vs $.
 
