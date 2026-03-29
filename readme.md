@@ -9,16 +9,16 @@ This decision pertains to the professional development of this young person; wha
 A red seal would provide increased long term job security, and a set of specialized skills and experience, but postpone full time entry to the workforce due to education *requirements. 
 
 ## Table of Contents (Links)
-[Background with References](background.md)
-[Data Sources](#5-data-sources-brief-description-with-links)
-[Data readme](data/readme.md)
-[Wrangling](wrangling.md)
-[Dashboard](https://career-trajectory-npv-calculator-3iz73bfhokfbyeu73aua5q.streamlit.app/)
-[Causal Loop Diagram](#causal-loop-diagram)
-[Exploratory Data Analysis](#exploritory-data-analysis-eda)
-[Decision Implications](#implications-for-the-decision)
-[Recommendation](#deliverable-4-recommendation)
-[Limitations & Future Work](#limitations-and-future-work)
+* [Background with References](background.md)
+* [Data Sources](#5-data-sources-brief-description-with-links)
+* [Data readme](data/readme.md)
+* [Wrangling](wrangling.md)
+* [Dashboard](https://career-trajectory-npv-calculator-3iz73bfhokfbyeu73aua5q.streamlit.app/)
+* [Causal Loop Diagram](#causal-loop-diagram)
+* [Exploratory Data Analysis](#exploritory-data-analysis-eda)
+* [Decision Implications](#implications-for-the-decision)
+* [Recommendation](#deliverable-4-recommendation)
+* [Limitations & Future Work](#limitations-and-future-work)
 
 
 ## LINK TO DELIVERABLE C : Streamlit dashboard
