@@ -79,7 +79,10 @@ Figure 1 depicts the CPI. The CPI is a direct representation of how various cost
 
 Figure 4 dipicts how province of residency impacts earned income for different target jobs. We didn't assign -/+ directionality for provincial relationships, as this is a categorical variable. 
 
-The decision maker would like to opimize for fiscal and capability outcomes; these feedback loops are the engines which produce those things.  
+The decision maker would like to opimize for fiscal and capability outcomes; these feedback loops are the engines which produce those things. 
+
+There are two major leverage points within this CLD; province of residency and education. Province of residency impacts the CPI (Cost of living), employment opportunities (especially with specific employers) & remuneration, prominent industries, culture and varies by what existing relationships the D/M has in the region(s). As stated prior, education is an attempt to kickstart the skill & experience development feedback loop. 
+
 
 ## Exploritory Data Analysis (EDA)
 
