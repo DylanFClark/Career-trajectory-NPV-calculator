@@ -83,6 +83,11 @@ The decision maker would like to opimize for fiscal and capability outcomes; the
 
 There are two major leverage points within this CLD; province of residency and education. Province of residency impacts the CPI (Cost of living), employment opportunities (especially with specific employers) & remuneration, prominent industries, culture and varies by what existing relationships the D/M has in the region(s). As stated prior, education is an attempt to kickstart the skill & experience development feedback loop. 
 
+Where interventions could affect the system: 
+* Major market changes, such as an increase in exfiltration of natural resources within Canada, would increase the *value of this route due to increased demand for I&C and adjacent positions. Likewise, a reduction in exfiltration would decrease the *value of this route. 
+* As warfare becomes more sophisticated, there is increasing likelyhood that conflicts rely on cyber. As facilities and infrastructure becomes increasingly autonomous, threat surfaces increase. This phenomena increases the *value of this route. 
+* Switching from private sector to public or military (after I&C red seal). What differences in outcomes this intervention would create is undetermined. 
+
 
 ## Exploritory Data Analysis (EDA)
 
