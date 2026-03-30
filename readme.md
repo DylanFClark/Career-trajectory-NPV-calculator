@@ -64,9 +64,6 @@ feedback loop 2: Experience -> Skills -> Experience
 
 ![words](img/causal_loop_2.drawio.png)
 
-
-# 2nd Deliverable Additions
-
 ## Causal Loop Justification
 
 * The 1st feedback loop requires capital to start. Further, compounding works in both directions. Thus, cost & debt managment is important. Revenue generation is also important. Revenue comes from cabapbilities; skills and experience.  
